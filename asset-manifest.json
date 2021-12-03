@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Google_Keep/static/css/main.f0f0e360.chunk.css",
+    "main.js": "/Google_Keep/static/js/main.ac40387e.chunk.js",
+    "main.js.map": "/Google_Keep/static/js/main.ac40387e.chunk.js.map",
+    "runtime-main.js": "/Google_Keep/static/js/runtime-main.f2a7e94c.js",
+    "runtime-main.js.map": "/Google_Keep/static/js/runtime-main.f2a7e94c.js.map",
+    "static/js/2.785ffb8f.chunk.js": "/Google_Keep/static/js/2.785ffb8f.chunk.js",
+    "static/js/2.785ffb8f.chunk.js.map": "/Google_Keep/static/js/2.785ffb8f.chunk.js.map",
+    "static/js/3.561446a4.chunk.js": "/Google_Keep/static/js/3.561446a4.chunk.js",
+    "static/js/3.561446a4.chunk.js.map": "/Google_Keep/static/js/3.561446a4.chunk.js.map",
+    "index.html": "/Google_Keep/index.html",
+    "static/css/main.f0f0e360.chunk.css.map": "/Google_Keep/static/css/main.f0f0e360.chunk.css.map",
+    "static/js/2.785ffb8f.chunk.js.LICENSE.txt": "/Google_Keep/static/js/2.785ffb8f.chunk.js.LICENSE.txt",
+    "static/media/footer_logo.0a89d195.PNG": "/Google_Keep/static/media/footer_logo.0a89d195.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2a7e94c.js",
+    "static/js/2.785ffb8f.chunk.js",
+    "static/css/main.f0f0e360.chunk.css",
+    "static/js/main.ac40387e.chunk.js"
+  ]
+}
